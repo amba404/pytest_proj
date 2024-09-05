@@ -1,5 +1,4 @@
 import pytest
-# import pytest_cov
 
 from utils.dicts import get_val
 
